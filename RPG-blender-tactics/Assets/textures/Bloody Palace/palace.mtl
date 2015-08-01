@@ -1,0 +1,32 @@
+newmtl Model001_Material001
+map_Kd st001-t-ha_bmout.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material002
+map_Kd st001-t-ha_bmout.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material003
+map_Kd st001-t-ha_bmout.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material004
+map_Kd st700-t-hanaaka_bm_nomipout.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material005
+map_Kd st701-t-shiba_bmout.png
+map_bump st701-t-shiba_nmout.png
+
+newmtl Model001_Material006
+map_Kd st700-t-iwa_bmout.png
+map_bump st700-t-iwa_nmout.png
+
+newmtl Model001_Material007
+map_Kd st700-t-mannaka_bmout.png
+map_bump st700-t-mannaka_nmout.png
+
+newmtl Model001_Material008
+map_Kd st700-t-tile_bmout.png
+map_bump st700-t-tile_nmout.png
+
