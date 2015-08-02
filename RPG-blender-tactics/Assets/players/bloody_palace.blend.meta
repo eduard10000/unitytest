@@ -10,23 +10,98 @@ ModelImporter:
     100004: Model001_Mesh6
     100006: Model001_Mesh7
     100008: Model001_Mesh8
+    100010: Cube
+    100012: Cube_001
+    100014: Cube_002
+    100016: Model001_Mesh5_001
+    100018: Model001_Mesh5_002
+    100020: Model001_Mesh5_003
+    100022: Model001_Mesh6_001
+    100024: Model001_Mesh6_002
+    100026: Model001_Mesh6_003
+    100028: Model001_Mesh7_001
+    100030: Model001_Mesh7_002
+    100032: Model001_Mesh7_003
+    100034: Model001_Mesh8_001
+    100036: Model001_Mesh8_002
+    100038: Model001_Mesh8_003
     400000: //RootNode
     400002: Model001_Mesh5
     400004: Model001_Mesh6
     400006: Model001_Mesh7
     400008: Model001_Mesh8
+    400010: Cube
+    400012: Cube_001
+    400014: Cube_002
+    400016: Model001_Mesh5_001
+    400018: Model001_Mesh5_002
+    400020: Model001_Mesh5_003
+    400022: Model001_Mesh6_001
+    400024: Model001_Mesh6_002
+    400026: Model001_Mesh6_003
+    400028: Model001_Mesh7_001
+    400030: Model001_Mesh7_002
+    400032: Model001_Mesh7_003
+    400034: Model001_Mesh8_001
+    400036: Model001_Mesh8_002
+    400038: Model001_Mesh8_003
     2300000: Model001_Mesh5
     2300002: Model001_Mesh6
     2300004: Model001_Mesh7
     2300006: Model001_Mesh8
+    2300008: Cube
+    2300010: Cube_001
+    2300012: Cube_002
+    2300014: Model001_Mesh5_001
+    2300016: Model001_Mesh5_002
+    2300018: Model001_Mesh5_003
+    2300020: Model001_Mesh6_001
+    2300022: Model001_Mesh6_002
+    2300024: Model001_Mesh6_003
+    2300026: Model001_Mesh7_001
+    2300028: Model001_Mesh7_002
+    2300030: Model001_Mesh7_003
+    2300032: Model001_Mesh8_001
+    2300034: Model001_Mesh8_002
+    2300036: Model001_Mesh8_003
     3300000: Model001_Mesh5
     3300002: Model001_Mesh6
     3300004: Model001_Mesh7
     3300006: Model001_Mesh8
+    3300008: Cube
+    3300010: Cube_001
+    3300012: Cube_002
+    3300014: Model001_Mesh5_001
+    3300016: Model001_Mesh5_002
+    3300018: Model001_Mesh5_003
+    3300020: Model001_Mesh6_001
+    3300022: Model001_Mesh6_002
+    3300024: Model001_Mesh6_003
+    3300026: Model001_Mesh7_001
+    3300028: Model001_Mesh7_002
+    3300030: Model001_Mesh7_003
+    3300032: Model001_Mesh8_001
+    3300034: Model001_Mesh8_002
+    3300036: Model001_Mesh8_003
     4300000: Model001_Mesh7
     4300002: Model001_Mesh6
     4300004: Model001_Mesh8
     4300006: Model001_Mesh5
+    4300008: Model001_Mesh5_003
+    4300010: Model001_Mesh8_003
+    4300012: Model001_Mesh6_003
+    4300014: Model001_Mesh7_003
+    4300016: Cube_002
+    4300018: Model001_Mesh7_002
+    4300020: Model001_Mesh6_002
+    4300022: Model001_Mesh8_002
+    4300024: Model001_Mesh5_002
+    4300026: Cube_001
+    4300028: Model001_Mesh5_001
+    4300030: Model001_Mesh8_001
+    4300032: Model001_Mesh6_001
+    4300034: Model001_Mesh7_001
+    4300036: Cube
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -38,6 +113,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
