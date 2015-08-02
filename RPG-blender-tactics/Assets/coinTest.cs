@@ -2,10 +2,7 @@
 using System.Collections;
 
 public class coinTest : MonoBehaviour {
-
-	// Use this for initialization
 	void Start () {
-	
 	}
 	
 	// Update is called once per frame
@@ -15,7 +12,9 @@ public class coinTest : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other) {
 		Debug.Log ("Hello", gameObject);
-		Destroy(other.gameObject);
+		count_coins.updateCoins();
+		Destroy(gameObject);
+
 
 	}
 
