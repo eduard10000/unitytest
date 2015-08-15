@@ -13,6 +13,13 @@
 *.userprefs
 *.pidb
 *.booproj
+*.meta
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+
 
 # Unity3D generated meta files
 *.pidb.meta
